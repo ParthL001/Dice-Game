@@ -2,6 +2,10 @@
 
 A simple and fun 2-player dice game built using **HTML, CSS, and JavaScript**. Refresh the page to roll the dice and see who wins!
 
+## 🌐 Live Demo
+
+[Click here to play the Dice Game]([https://your-username.github.io/Dice-Game/](https://parthl001.github.io/Dice-Game/))
+
 ---
 
 ## 🚀 Features
