@@ -8,3 +8,4 @@ A simple and fun 2-player dice game built using HTML, CSS, and JavaScript. Refre
 🤝 Displays draw when both dice are equal
 🎨 Styled UI with background image and custom fonts
 ⚡ Instant result on page refresh
+
