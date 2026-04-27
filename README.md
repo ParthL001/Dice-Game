@@ -6,7 +6,7 @@ A simple and fun 2-player dice game built using **HTML, CSS, and JavaScript**. R
 ## 🌐 Live Demo
 
 🎲 Play the game here:  
-👉 [https://your-username.github.io/Dice-Game/](https://parthl001.github.io/Dice-Game/)
+👉 [Dice Game](https://parthl001.github.io/Dice-Game/)
 
 ---
 
